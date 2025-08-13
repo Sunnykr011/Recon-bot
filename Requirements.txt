@@ -1,3 +1,5 @@
-python-telegram-bot==13.15  # Or latest version, but this is stable for v13
+python-telegram-bot==13.15
 requests==2.31.0
 beautifulsoup4==4.12.2
+lxml==4.9.3
+trafilatura==1.7.0
